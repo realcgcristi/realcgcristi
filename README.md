@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CGCristi (Avery)</h1>
+<img src="header.png" style="width: 100%; height: auto;">
 <h3 align="center">A passionate software dev from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realcgcristi&label=Profile%20views&color=0e75b6&style=flat" alt="realcgcristi" /> </p>
