@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realcgcristi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="realcgcristi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realcgcristi&show_icons=true&theme=synthwave&locale=en" alt="realcgcristi" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=realcgcristi&theme=synthwave&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
