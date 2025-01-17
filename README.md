@@ -19,4 +19,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=realcgcristi&theme=synthwave&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwygjbpkrpsnntfmseb7z67o7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwygjbpkrpsnntfmseb7z67o7i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwygjbpkrpsnntfmseb7z67o7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwygjbpkrpsnntfmseb7z67o7i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
