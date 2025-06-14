@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realcgcristi" alt="realcgcristi" /></a> </p>
 
-- 👨‍💻 Website [https://cgcristi.xyz](https://cgcristi.xyz)
+- 👨‍💻 Website [https://cgcristi.dev](https://cgcristi.dev)
 
-- 📫 How to reach me: **cgcristi@cgcristi.xyz**
+- 📫 How to reach me: **avery@vanta.host**
 
 
 <h3 align="left">Languages and Tools:</h3>
