@@ -7,7 +7,7 @@
 
 - 👨‍💻 Website [https://cgcristi.dev](https://cgcristi.dev)
 
-- 📫 How to reach me: **avery@vanta.host**
+- 📫 How to reach me: **avery@i-am.best**
 
 
 <h3 align="left">Languages and Tools:</h3>
