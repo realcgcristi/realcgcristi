@@ -75,7 +75,7 @@ Mostly **throwaway infrastructure** — things that delete themselves so nothing
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=realcgcristi&hide_border=true&background=0D1117&ring=ADF878&fire=F38020&currStreakLabel=ADF878&sideLabels=C9D1D9&dates=8B949E" alt="streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=realcgcristi&hide_border=true&background=0D1117&stroke=161B22&ring=ADF878&fire=F38020&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=ADF878&sideLabels=C9D1D9&dates=8B949E" alt="streak" height="150" />
 </p>
 
 <p align="center"><i>ship it, let it expire, move on.</i></p>
