@@ -4,29 +4,29 @@
     .key { fill: #ADF878; font-weight: bold; }
     .val { fill: #C9D1D9; }
     .dot { fill: #30363D; }
-    .art { fill: #ADF878; }
+    .art { fill: #ADF878; font-weight: bold; }
     .rain { fill: #30363D; }
     .cap { fill: #8b949e; }
     text, tspan { white-space: pre; }
   </style>
   <rect width="1080" height="430" fill="#0d1117" rx="15"/>
 
-  <text class="art" font-weight="bold">
-    <tspan x="40" y="90">                 .--.</tspan>
-    <tspan x="40" y="120">              .-(    '-.</tspan>
-    <tspan x="40" y="150">            .'            '.</tspan>
-    <tspan x="40" y="180">           (                )</tspan>
-    <tspan x="40" y="210">            '.             .'</tspan>
-    <tspan x="40" y="240">              '--.....___..-' </tspan>
+  <text class="art">
+    <tspan x="40" y="60">             .--.  .--.   .--.</tspan>
+    <tspan x="40" y="90">          .-'    ''    '-'    '-.</tspan>
+    <tspan x="40" y="120">        .'                       '.</tspan>
+    <tspan x="40" y="150">       (                           )</tspan>
+    <tspan x="40" y="180">      (                             )</tspan>
+    <tspan x="40" y="210">       '.                         .'</tspan>
+    <tspan x="40" y="240">         '-.___________________.-'</tspan>
   </text>
   <text class="rain">
-    <tspan x="70" y="280">.  .  .  .  .  .  .  .</tspan>
-    <tspan x="90" y="305">.  .  .  .  .  .  .</tspan>
+    <tspan x="55" y="280">          .  .  .  .  .  .  .  .</tspan>
+    <tspan x="55" y="306">            .  .  .  .  .  .</tspan>
   </text>
   <text class="cap">
-    <tspan x="55" y="345">low effort,</tspan>
-    <tspan x="55" y="370">auto-expiring</tspan>
-    <tspan x="55" y="395">infrastructure</tspan>
+    <tspan x="55" y="360">low effort,</tspan>
+    <tspan x="55" y="385">auto-expiring</tspan>
   </text>
 
   <text><tspan x="390" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">-------------------------------------------------------------------</tspan></tspan>
