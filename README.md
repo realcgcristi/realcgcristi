@@ -1,5 +1,11 @@
 <img src="header.png" style="width: 100%; height: auto;">
 
+<p align="center">
+  <img src="banner.png" alt="banner" width="820" />
+</p>
+
+<p align="center"><sub>thanks a_arond for making the masterpiece of a banner above</sub></p>
+
 <h3 align="center">fullstack dev from Romania — I ship fast, and let things expire faster</h3>
 
 <p align="center">
@@ -83,10 +89,3 @@ Mostly **throwaway infrastructure** — things that delete themselves so nothing
 
 <p align="center"><i>ship it, let it expire, move on.</i></p>
 
----
-
-<p align="center">
-  <img src="banner.png" alt="banner" width="820" />
-</p>
-
-<p align="center"><sub>thanks a_arond for making the masterpiece of a banner above</sub></p>
