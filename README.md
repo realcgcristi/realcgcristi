@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="fastfetch.svg" alt="fastfetch about cg" width="780" />
+  <img src="fastfetch.svg" alt="fastfetch about cg" width="820" />
 </p>
 
 ---
