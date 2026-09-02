@@ -6,6 +6,8 @@
 
 <p align="center"><sub>thanks a_arond for making the masterpiece of a banner above</sub></p>
 
+---
+
 <h3 align="center">fullstack dev from Romania — I ship fast, and let things expire faster</h3>
 
 <p align="center">
