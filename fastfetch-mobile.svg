@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BORN=15012011  <- your birthdate (ddmmyyyy). edit this line; the daily workflow keeps the age fresh -->
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="560" height="824" font-size="13.5">
+  <style>
+    .key { fill: #ADF878; font-weight: bold; }
+    .val { fill: #C9D1D9; }
+    .dot { fill: #30363D; }
+    .art { fill: #C9D1D9; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="560" height="824" fill="#0d1117" rx="15"/>
+  <text class="art" font-size="6.4">
+    <tspan x="22" y="18.0">                                              --------</tspan>
+    <tspan x="22" y="26.0">                                        =-------------------</tspan>
+    <tspan x="22" y="34.0">                                     --------------------------</tspan>
+    <tspan x="22" y="42.0">                                  -------------------------------=</tspan>
+    <tspan x="22" y="50.0">                                =----------------------------------</tspan>
+    <tspan x="22" y="58.0">                               --------------------------------------</tspan>
+    <tspan x="22" y="66.0">                             -----------------------------------------</tspan>
+    <tspan x="22" y="74.0">                             ------------------------------------------</tspan>
+    <tspan x="22" y="82.0">                           ---------------------------------------------</tspan>
+    <tspan x="22" y="90.0">                           ----------------------------------------------</tspan>
+    <tspan x="22" y="98.0">                --------------------------------      -------------------</tspan>
+    <tspan x="22" y="106.0">            ----------------------------------          ------------------     -====</tspan>
+    <tspan x="22" y="114.0">         ------------------------------------            ---------------------------------</tspan>
+    <tspan x="22" y="122.0">       -----------------------------------=                ----------------------------------</tspan>
+    <tspan x="22" y="130.0">      -----------------------------------                    ----------------------------------</tspan>
+    <tspan x="22" y="138.0">    -----------------------------------                        ----------------------------------</tspan>
+    <tspan x="22" y="146.0">   ----------------------------------         --      --         ----------------------------------</tspan>
+    <tspan x="22" y="154.0">  ---------------------------------=        =---      ----        ---------------------------------=</tspan>
+    <tspan x="22" y="162.0">  --------------------------------        ------      -----=        --------------------------------</tspan>
+    <tspan x="22" y="170.0"> ---------------------------------       -------      -------       ---------------------------------</tspan>
+    <tspan x="22" y="178.0">-----------------------------------    ---------      ---------    -----------------------------------</tspan>
+    <tspan x="22" y="186.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="22" y="194.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="22" y="202.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="22" y="210.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="22" y="218.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="22" y="226.0"> -----------------------------------------------      -----------------------------------------------</tspan>
+    <tspan x="22" y="234.0">  ----------------------------------------------      ----------------------------------------------</tspan>
+    <tspan x="22" y="242.0">  ----------------------------------------------      ---------------------------------------------=</tspan>
+    <tspan x="22" y="250.0">   ---------------------------------------------      --------------------------------------------=</tspan>
+    <tspan x="22" y="258.0">    --------------------------------------------      -------------------------------------------</tspan>
+    <tspan x="22" y="266.0">     =-------------------------------------------=   -------------------------------------------</tspan>
+    <tspan x="22" y="274.0">       ---------------------------------------------------------------------------------------</tspan>
+    <tspan x="22" y="282.0">         =----------------------------------------------------------------------------------=</tspan>
+    <tspan x="22" y="290.0">            ------------------------------------------------------------------------------</tspan>
+    <tspan x="22" y="298.0">               ------------------------------------------------------------------------</tspan>
+    <tspan x="22" y="306.0">                     =----------------------------------------------------------</tspan>
+  </text>
+  <text><tspan x="22" y="348.0"><tspan class="key">- cg@getswift </tspan><tspan class="dot">--------------------------------------------------</tspan></tspan>
+<tspan x="22" y="370.0"><tspan class="dot">. </tspan><tspan class="key">OS:</tspan><tspan class="dot">.......................................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
+<tspan x="22" y="392.0"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.....................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 19 days old)</tspan></tspan>
+<tspan x="22" y="414.0"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...................................</tspan><tspan class="val">4 years 3 months 6 days on GitHub</tspan></tspan>
+<tspan x="22" y="436.0"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.....................................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
+<tspan x="22" y="458.0"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">...................................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
+<tspan x="22" y="480.0"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">......................................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>
+<tspan x="22" y="502.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="22" y="524.0"><tspan class="dot">. </tspan><tspan class="key">Langs.Code:</tspan><tspan class="dot">...............................</tspan><tspan class="val">TypeScript, Kotlin, Dart,</tspan></tspan>
+<tspan x="22" y="546.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val">Python, Java</tspan></tspan>
+<tspan x="22" y="568.0"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">...............................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
+<tspan x="22" y="590.0"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">..............................</tspan><tspan class="val">Romanian, English</tspan></tspan>
+<tspan x="22" y="612.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="22" y="634.0"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">.................................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
+<tspan x="22" y="656.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
+<tspan x="22" y="678.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val">dev — home base</tspan></tspan>
+<tspan x="22" y="700.0"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">..........................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="22" y="722.0"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">-------------------------------------------------</tspan></tspan>
+<tspan x="22" y="744.0"><tspan class="key">Repos:</tspan><tspan class="dot">....................................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>
+<tspan x="22" y="766.0"><tspan class="dot">. </tspan><tspan class="key">Followers:</tspan><tspan class="dot">................................</tspan><tspan class="val">12 | streak: unbroken</tspan></tspan>
+<tspan x="22" y="788.0"><tspan class="dot">. </tspan><tspan class="key">Storage:</tspan><tspan class="dot">..................................</tspan><tspan class="val">everything auto-deleted in 7d</tspan></tspan></text>
+</svg>

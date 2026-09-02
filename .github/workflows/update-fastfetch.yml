@@ -27,6 +27,6 @@ jobs:
       - run: |
           git config user.name "realcgcristi"
           git config user.email "cgcristitm@gmail.com"
-          git add fastfetch.svg
+          git add fastfetch.svg fastfetch-mobile.svg
           git diff --cached --quiet || git commit -m "fastfetch: daily refresh"
           git push

@@ -10,64 +10,63 @@
   </style>
   <rect width="1060" height="548" fill="#0d1117" rx="15"/>
   <text class="art" font-size="6.4">
-    <tspan x="24" y="20.0">;</tspan>
-    <tspan x="24" y="28.0">                                                 --------</tspan>
-    <tspan x="24" y="36.0">                                           =-------------------</tspan>
-    <tspan x="24" y="44.0">                                        --------------------------</tspan>
-    <tspan x="24" y="52.0">                                     -------------------------------=</tspan>
-    <tspan x="24" y="60.0">                                   =----------------------------------</tspan>
-    <tspan x="24" y="68.0">                                  --------------------------------------</tspan>
-    <tspan x="24" y="76.0">                                -----------------------------------------</tspan>
-    <tspan x="24" y="84.0">                                ------------------------------------------</tspan>
-    <tspan x="24" y="92.0">                              ---------------------------------------------</tspan>
-    <tspan x="24" y="100.0">                              ----------------------------------------------</tspan>
-    <tspan x="24" y="108.0">                   --------------------------------      -------------------</tspan>
-    <tspan x="24" y="116.0">               ----------------------------------          ------------------     -====</tspan>
-    <tspan x="24" y="124.0">            ------------------------------------            ---------------------------------</tspan>
-    <tspan x="24" y="132.0">          -----------------------------------=                ----------------------------------</tspan>
-    <tspan x="24" y="140.0">         -----------------------------------                    ----------------------------------</tspan>
-    <tspan x="24" y="148.0">       -----------------------------------                        ----------------------------------</tspan>
-    <tspan x="24" y="156.0">      ----------------------------------         --      --         ----------------------------------</tspan>
-    <tspan x="24" y="164.0">     ---------------------------------=        =---      ----        ---------------------------------=</tspan>
-    <tspan x="24" y="172.0">     --------------------------------        ------      -----=        --------------------------------</tspan>
-    <tspan x="24" y="180.0">    ---------------------------------       -------      -------       ---------------------------------</tspan>
-    <tspan x="24" y="188.0">   -----------------------------------    ---------      ---------    -----------------------------------</tspan>
-    <tspan x="24" y="196.0">   ------------------------------------------------      ------------------------------------------------</tspan>
-    <tspan x="24" y="204.0">   ------------------------------------------------      ------------------------------------------------</tspan>
-    <tspan x="24" y="212.0">   ------------------------------------------------      ------------------------------------------------</tspan>
-    <tspan x="24" y="220.0">   ------------------------------------------------      ------------------------------------------------</tspan>
-    <tspan x="24" y="228.0">   ------------------------------------------------      ------------------------------------------------</tspan>
-    <tspan x="24" y="236.0">    -----------------------------------------------      -----------------------------------------------</tspan>
-    <tspan x="24" y="244.0">     ----------------------------------------------      ----------------------------------------------</tspan>
-    <tspan x="24" y="252.0">     ----------------------------------------------      ---------------------------------------------=</tspan>
-    <tspan x="24" y="260.0">      ---------------------------------------------      --------------------------------------------=</tspan>
-    <tspan x="24" y="268.0">       --------------------------------------------      -------------------------------------------</tspan>
-    <tspan x="24" y="276.0">        =-------------------------------------------=   -------------------------------------------</tspan>
-    <tspan x="24" y="284.0">          ---------------------------------------------------------------------------------------</tspan>
-    <tspan x="24" y="292.0">            =----------------------------------------------------------------------------------=</tspan>
-    <tspan x="24" y="300.0">               ------------------------------------------------------------------------------</tspan>
-    <tspan x="24" y="308.0">                  ------------------------------------------------------------------------</tspan>
-    <tspan x="24" y="316.0">                        =----------------------------------------------------------</tspan>
+    <tspan x="24" y="20.0">                                              --------</tspan>
+    <tspan x="24" y="28.0">                                        =-------------------</tspan>
+    <tspan x="24" y="36.0">                                     --------------------------</tspan>
+    <tspan x="24" y="44.0">                                  -------------------------------=</tspan>
+    <tspan x="24" y="52.0">                                =----------------------------------</tspan>
+    <tspan x="24" y="60.0">                               --------------------------------------</tspan>
+    <tspan x="24" y="68.0">                             -----------------------------------------</tspan>
+    <tspan x="24" y="76.0">                             ------------------------------------------</tspan>
+    <tspan x="24" y="84.0">                           ---------------------------------------------</tspan>
+    <tspan x="24" y="92.0">                           ----------------------------------------------</tspan>
+    <tspan x="24" y="100.0">                --------------------------------      -------------------</tspan>
+    <tspan x="24" y="108.0">            ----------------------------------          ------------------     -====</tspan>
+    <tspan x="24" y="116.0">         ------------------------------------            ---------------------------------</tspan>
+    <tspan x="24" y="124.0">       -----------------------------------=                ----------------------------------</tspan>
+    <tspan x="24" y="132.0">      -----------------------------------                    ----------------------------------</tspan>
+    <tspan x="24" y="140.0">    -----------------------------------                        ----------------------------------</tspan>
+    <tspan x="24" y="148.0">   ----------------------------------         --      --         ----------------------------------</tspan>
+    <tspan x="24" y="156.0">  ---------------------------------=        =---      ----        ---------------------------------=</tspan>
+    <tspan x="24" y="164.0">  --------------------------------        ------      -----=        --------------------------------</tspan>
+    <tspan x="24" y="172.0"> ---------------------------------       -------      -------       ---------------------------------</tspan>
+    <tspan x="24" y="180.0">-----------------------------------    ---------      ---------    -----------------------------------</tspan>
+    <tspan x="24" y="188.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="24" y="196.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="24" y="204.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="24" y="212.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="24" y="220.0">------------------------------------------------      ------------------------------------------------</tspan>
+    <tspan x="24" y="228.0"> -----------------------------------------------      -----------------------------------------------</tspan>
+    <tspan x="24" y="236.0">  ----------------------------------------------      ----------------------------------------------</tspan>
+    <tspan x="24" y="244.0">  ----------------------------------------------      ---------------------------------------------=</tspan>
+    <tspan x="24" y="252.0">   ---------------------------------------------      --------------------------------------------=</tspan>
+    <tspan x="24" y="260.0">    --------------------------------------------      -------------------------------------------</tspan>
+    <tspan x="24" y="268.0">     =-------------------------------------------=   -------------------------------------------</tspan>
+    <tspan x="24" y="276.0">       ---------------------------------------------------------------------------------------</tspan>
+    <tspan x="24" y="284.0">         =----------------------------------------------------------------------------------=</tspan>
+    <tspan x="24" y="292.0">            ------------------------------------------------------------------------------</tspan>
+    <tspan x="24" y="300.0">               ------------------------------------------------------------------------</tspan>
+    <tspan x="24" y="308.0">                     =----------------------------------------------------------</tspan>
   </text>
-  <text><tspan x="458" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">--------------------------------------------------</tspan></tspan>
-<tspan x="458" y="54"><tspan class="key">OS:</tspan><tspan class="dot">...................................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
-<tspan x="458" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 18 days old)</tspan></tspan>
-<tspan x="458" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...............................</tspan><tspan class="val">4 years 3 months 5 days on GitHub</tspan></tspan>
-<tspan x="458" y="126"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.................................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
-<tspan x="458" y="150"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">...............................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
-<tspan x="458" y="174"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">..................................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>
-<tspan x="458" y="198"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="458" y="222"><tspan class="dot">. </tspan><tspan class="key">Langs.Code:</tspan><tspan class="dot">...........................</tspan><tspan class="val">TypeScript, Kotlin, Dart,</tspan></tspan>
-<tspan x="458" y="246"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">Python, Java</tspan></tspan>
-<tspan x="458" y="270"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">...........................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
-<tspan x="458" y="294"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">..........................</tspan><tspan class="val">Romanian, English</tspan></tspan>
-<tspan x="458" y="318"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="458" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">.............................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
-<tspan x="458" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
-<tspan x="458" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">dev — home base</tspan></tspan>
-<tspan x="458" y="414"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="458" y="438"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">-------------------------------------------------</tspan></tspan>
-<tspan x="458" y="462"><tspan class="key">Repos:</tspan><tspan class="dot">................................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>
-<tspan x="458" y="486"><tspan class="dot">. </tspan><tspan class="key">Followers:</tspan><tspan class="dot">............................</tspan><tspan class="val">12 | streak: unbroken</tspan></tspan>
-<tspan x="458" y="510"><tspan class="dot">. </tspan><tspan class="key">Storage:</tspan><tspan class="dot">..............................</tspan><tspan class="val">everything auto-deleted in 7d</tspan></tspan></text>
+  <text><tspan x="446" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">---------------------------------------------------</tspan></tspan>
+<tspan x="446" y="54"><tspan class="dot">. </tspan><tspan class="key">OS:</tspan><tspan class="dot">...................................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
+<tspan x="446" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 19 days old)</tspan></tspan>
+<tspan x="446" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...............................</tspan><tspan class="val">4 years 3 months 6 days on GitHub</tspan></tspan>
+<tspan x="446" y="126"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.................................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
+<tspan x="446" y="150"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">...............................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
+<tspan x="446" y="174"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">..................................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>
+<tspan x="446" y="198"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="446" y="222"><tspan class="dot">. </tspan><tspan class="key">Langs.Code:</tspan><tspan class="dot">...........................</tspan><tspan class="val">TypeScript, Kotlin, Dart,</tspan></tspan>
+<tspan x="446" y="246"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">Python, Java</tspan></tspan>
+<tspan x="446" y="270"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">...........................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
+<tspan x="446" y="294"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">..........................</tspan><tspan class="val">Romanian, English</tspan></tspan>
+<tspan x="446" y="318"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="446" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">.............................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
+<tspan x="446" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
+<tspan x="446" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">dev — home base</tspan></tspan>
+<tspan x="446" y="414"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="446" y="438"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">--------------------------------------------------</tspan></tspan>
+<tspan x="446" y="462"><tspan class="key">Repos:</tspan><tspan class="dot">................................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>
+<tspan x="446" y="486"><tspan class="dot">. </tspan><tspan class="key">Followers:</tspan><tspan class="dot">............................</tspan><tspan class="val">12 | streak: unbroken</tspan></tspan>
+<tspan x="446" y="510"><tspan class="dot">. </tspan><tspan class="key">Storage:</tspan><tspan class="dot">..............................</tspan><tspan class="val">everything auto-deleted in 7d</tspan></tspan></text>
 </svg>

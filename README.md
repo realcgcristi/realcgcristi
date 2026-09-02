@@ -12,7 +12,10 @@
 </p>
 
 <p align="center">
+  <picture>
+  <source media="(max-width: 660px)" srcset="fastfetch-mobile.svg" width="100%" />
   <img src="fastfetch.svg" alt="fastfetch about cg" width="820" />
+</picture>
 </p>
 
 ---
