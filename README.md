@@ -82,3 +82,11 @@ Mostly **throwaway infrastructure** — things that delete themselves so nothing
 </p>
 
 <p align="center"><i>ship it, let it expire, move on.</i></p>
+
+---
+
+<p align="center">
+  <img src="banner.png" alt="banner" width="820" />
+</p>
+
+<p align="center"><sub>thanks a_arond for making the masterpiece of a banner above</sub></p>
