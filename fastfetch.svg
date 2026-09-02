@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="880" height="330" font-size="15">
+  <style>
+    .key { fill: #ADF878; font-weight: bold; }
+    .val { fill: #C9D1D9; }
+    .dot { fill: #30363D; }
+    .usr { fill: #ADF878; font-weight: bold; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="880" height="330" fill="#0d1117" rx="14"/>
+  <circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="22" r="6" fill="#27c93f"/>
+  <line x1="0" y1="40" x2="880" y2="40" stroke="#21262d" stroke-width="1"/>
+
+  <text fill="#ADF878">
+    <tspan x="30" y="110">             .--.</tspan>
+    <tspan x="30" y="135">          .-(    ).</tspan>
+    <tspan x="30" y="160">         (___.__)__)</tspan>
+    <tspan x="30" y="200">     low effort,</tspan>
+    <tspan x="30" y="225">     auto-expiring</tspan>
+    <tspan x="30" y="250">     infrastructure</tspan>
+  </text>
+
+  <text>
+    <tspan x="290" y="80"><tspan class="usr">cg@getswift</tspan><tspan class="dot"> --------------------------------------------------- </tspan></tspan>
+    <tspan x="290" y="112"><tspan class="key">OS</tspan><tspan class="val">: </tspan><tspan class="dot">......................  </tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
+    <tspan x="290" y="136"><tspan class="key">Host</tspan><tspan class="val">: </tspan><tspan class="dot">....................  </tspan><tspan class="val">cgcristi.dev</tspan></tspan>
+    <tspan x="290" y="160"><tspan class="key">Kernel</tspan><tspan class="val">: </tspan><tspan class="dot">..................  </tspan><tspan class="val">fullstack, edge-native</tspan></tspan>
+    <tspan x="290" y="184"><tspan class="key">Uptime</tspan><tspan class="val">: </tspan><tspan class="dot">..................  </tspan><tspan class="val">shipping since 2022</tspan></tspan>
+    <tspan x="290" y="208"><tspan class="key">Packages</tspan><tspan class="val">: </tspan><tspan class="dot">................  </tspan><tspan class="val">15 public repos (and counting)</tspan></tspan>
+    <tspan x="290" y="232"><tspan class="key">Shell</tspan><tspan class="val">: </tspan><tspan class="dot">....................  </tspan><tspan class="val">TypeScript / Kotlin / Dart</tspan></tspan>
+    <tspan x="290" y="256"><tspan class="key">Terminal</tspan><tspan class="val">: </tspan><tspan class="dot">................  </tspan><tspan class="val">VS Code + GitHub Actions</tspan></tspan>
+    <tspan x="290" y="280"><tspan class="key">CPU</tspan><tspan class="val">: </tspan><tspan class="dot">......................  </tspan><tspan class="val">Cloudflare Workers</tspan></tspan>
+    <tspan x="290" y="304"><tspan class="key">Memory</tspan><tspan class="val">: </tspan><tspan class="dot">..................  </tspan><tspan class="val">R2 + D1, auto-expires in 7d</tspan></tspan>
+  </text>
+</svg>
