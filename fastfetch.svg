@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- BORN=15012011  <- your birthdate (ddmmyyyy). edit this line; the daily workflow keeps the age fresh -->
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="1060" height="548" font-size="15">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="1060" height="548" font-size="15" viewBox="0 0 1060 548">
   <style>
     .key { fill: #ADF878; font-weight: bold; }
     .val { fill: #C9D1D9; }
@@ -50,8 +50,8 @@
   </text>
   <text><tspan x="446" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">---------------------------------------------------</tspan></tspan>
 <tspan x="446" y="54"><tspan class="dot">. </tspan><tspan class="key">OS:</tspan><tspan class="dot">...................................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
-<tspan x="446" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 18 days old)</tspan></tspan>
-<tspan x="446" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...............................</tspan><tspan class="val">4 years 3 months 5 days on GitHub</tspan></tspan>
+<tspan x="446" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 19 days old)</tspan></tspan>
+<tspan x="446" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...............................</tspan><tspan class="val">4 years 3 months 6 days on GitHub</tspan></tspan>
 <tspan x="446" y="126"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.................................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
 <tspan x="446" y="150"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">...............................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
 <tspan x="446" y="174"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">..................................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>

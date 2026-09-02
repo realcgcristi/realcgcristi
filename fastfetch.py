@@ -131,7 +131,7 @@ def make_svg(w, art_x, art_y, afs, alh, ifs, info_x, info_y, row_gap, col):
     born_tag = BORN.strftime("%d%m%Y") if BORN else "ddmmyyyy"
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <!-- BORN={born_tag}  <- your birthdate (ddmmyyyy). edit this line; the daily workflow keeps the age fresh -->
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="{w}" height="{body_h}" font-size="{ifs}">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="{w}" height="{body_h}" font-size="{ifs}" viewBox="0 0 {w} {body_h}">
   <style>
     .key {{ fill: #ADF878; font-weight: bold; }}
     .val {{ fill: #C9D1D9; }}
