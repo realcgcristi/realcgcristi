@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">fullstack dev from Romania — I ship fast, and let things expire faster</h3>
+<h3 align="center">fullstack dev from Romania, I ship fast, and let things expire faster</h3>
 
 <p align="center">
   <a href="https://cgcristi.dev"><img src="https://img.shields.io/badge/website-cgcristi.dev-010409?style=for-the-badge&logo=googlechrome&logoColor=C9D1D9&labelColor=010409" alt="website" /></a>
@@ -30,17 +30,17 @@
 
 ### what I build
 
-Mostly **throwaway infrastructure** — things that delete themselves so nothing rots. All edge, no servers to babysit: Cloudflare Workers + D1 + R2 on the back, Next.js + TypeScript on the front.
+Mostly **throwaway infrastructure**, things that delete themselves so nothing rots. All edge, no servers to babysit: Cloudflare Workers + D1 + R2 on the back, Next.js + TypeScript on the front.
 
-- **[temp.getswift.cloud](https://temp.getswift.cloud)** — drop a file, get a link. auto-deletes in 7 days or less. google sign-in, password + recipient-only links, public API, analytics.
-- **[bin.getswift.cloud](https://bin.getswift.cloud)** — pastebin with burn-after-read, forks, and raw endpoints.
-- **[cgcristi.dev](https://cgcristi.dev)** — my corner of the internet.
+- **[temp.getswift.cloud](https://temp.getswift.cloud)**, drop a file, get a link. auto-deletes in 7 days or less. google sign-in, password + recipient-only links, public API, analytics.
+- **[bin.getswift.cloud](https://bin.getswift.cloud)**, pastebin with burn-after-read, forks, and raw endpoints.
+- **[cgcristi.dev](https://cgcristi.dev)**, my corner of the internet.
 
 ### favorite public repos
 
 | repo | about | written in |
 |---|---|---|
-| [pigeonsms](https://github.com/realcgcristi/pigeonsms) | chat app — android client, cloudflare workers backend. dms, spaces, calls, the works. | kotlin |
+| [pigeonsms](https://github.com/realcgcristi/pigeonsms) | chat app, android client, cloudflare workers backend. dms, spaces, calls, the works. | kotlin |
 | [nextfin](https://github.com/realcgcristi/nextfin) | a jellyfin client for android | dart |
 | [StreamFlareUI](https://github.com/realcgcristi/StreamFlareUI) | streamflare, but with a UI | python |
 | [StreamFlare](https://github.com/realcgcristi/StreamFlare) | a simple youtube downloader, for terminals | python |

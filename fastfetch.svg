@@ -61,9 +61,9 @@
 <tspan x="432" y="270"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">.................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
 <tspan x="432" y="294"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">................</tspan><tspan class="val">Romanian, English</tspan></tspan>
 <tspan x="432" y="318"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="432" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">...................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
-<tspan x="432" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
-<tspan x="432" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">dev — home base</tspan></tspan>
+<tspan x="432" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">...................</tspan><tspan class="val">temp, files that self-delete</tspan></tspan>
+<tspan x="432" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">bin, burn-after-read pastes</tspan></tspan>
+<tspan x="432" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">dev, home base</tspan></tspan>
 <tspan x="432" y="414"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val"></tspan></tspan>
 <tspan x="432" y="438"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">------------------------------------------------------------</tspan></tspan>
 <tspan x="432" y="462"><tspan class="key">Repos:</tspan><tspan class="dot">......................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>

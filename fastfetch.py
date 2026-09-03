@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# regenerates fastfetch.svg (desktop) + fastfetch-mobile.svg (stacked) —
+# regenerates fastfetch.svg (desktop) + fastfetch-mobile.svg (stacked),
 # live GitHub stats, uptime, and your age. birthdate lives in the SVG: BORN=ddmmyyyy
 import json, calendar, re, urllib.request
 from datetime import date
@@ -112,8 +112,8 @@ INFO = [
     ("k", "Kernel", "edge-native (Cloudflare)"), ("k", "IDE", "VS Code, Android Studio"),
     ("gap",), ("k", "Langs.Code", "TypeScript, Kotlin, Dart,"), ("k", "", "Python, Java"),
     ("k", "Langs.Edge", "Workers, Pages, D1, R2, Cron"), ("k", "Langs.Human", "Romanian, English"),
-    ("gap",), ("k", "Projects", "temp — files that self-delete"), ("k", "", "bin — burn-after-read pastes"),
-    ("k", "", "dev — home base"), ("gap",), ("hdr", "GitHub Stats"),
+    ("gap",), ("k", "Projects", "temp, files that self-delete"), ("k", "", "bin, burn-after-read pastes"),
+    ("k", "", "dev, home base"), ("gap",), ("hdr", "GitHub Stats"),
     ("kf", "Repos", f"{user['public_repos']} public | Stars: {stars}"),
     ("k", "Followers", f"{user['followers']} | streak: unbroken"),
     ("k", "Storage", "everything auto-deleted in 7d"),
