@@ -120,6 +120,9 @@ INFO = [
 ]
 
 def make_svg(w, art_x, art_y, afs, alh, ifs, info_x, info_y, row_gap, col):
+    fsc = ifs * 0.6033
+    maxlen = max(len(item[2]) for item in INFO if item[0] in ("k", "kf"))
+    w = max(w, int(info_x + (2 + col + maxlen) * fsc) + 20)
     emit, line, hdr, rows = build_rows(info_x, col, w, ifs)
     for item in INFO:
         y = info_y + len(rows) * row_gap
@@ -149,8 +152,8 @@ def make_svg(w, art_x, art_y, afs, alh, ifs, info_x, info_y, row_gap, col):
 
 ACH = 0.2406 * 16   # ~3.85px per char at 6.4px font
 ALH = 8.0
-desktop = make_svg(1060, 24, 20, 6.4, ALH, 15, int(24 + MAXW * ACH + 30), 30, 24, 38)
-mobile  = make_svg(560, 22, 18, 6.4, ALH, 13.5, 22, 18 + NLINES * ALH + 34, 22, 42)
+desktop = make_svg(1060, 24, 20, 6.4, ALH, 14, int(24 + MAXW * ACH + 16), 30, 24, 28)
+mobile  = make_svg(560, 22, 18, 6.4, ALH, 12.5, 22, 18 + NLINES * ALH + 34, 22, 16)
 (SVG_DIR / "fastfetch.svg").write_text(desktop)
 (SVG_DIR / "fastfetch-mobile.svg").write_text(mobile)
 print("born:", born_line, "| uptime:", fmt(since(GIT_BORN)), "| repos", user["public_repos"], "| stars", stars, "| followers", user["followers"])

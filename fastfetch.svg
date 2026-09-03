@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- BORN=15012011  <- your birthdate (ddmmyyyy). edit this line; the daily workflow keeps the age fresh -->
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="1060" height="548" font-size="15" viewBox="0 0 1060 548">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Cascadia Mono',Menlo,monospace" width="1085" height="548" font-size="14" viewBox="0 0 1085 548">
   <style>
     .key { fill: #ADF878; font-weight: bold; }
     .val { fill: #C9D1D9; }
@@ -8,7 +8,7 @@
     .art { fill: #C9D1D9; }
     text, tspan { white-space: pre; }
   </style>
-  <rect width="1060" height="548" fill="#0d1117" rx="15"/>
+  <rect width="1085" height="548" fill="#0d1117" rx="15"/>
   <text class="art" font-size="6.4">
     <tspan x="24" y="20.0">                                              --------</tspan>
     <tspan x="24" y="28.0">                                        =-------------------</tspan>
@@ -48,25 +48,25 @@
     <tspan x="24" y="300.0">               ------------------------------------------------------------------------</tspan>
     <tspan x="24" y="308.0">                     =----------------------------------------------------------</tspan>
   </text>
-  <text><tspan x="446" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">---------------------------------------------------</tspan></tspan>
-<tspan x="446" y="54"><tspan class="dot">. </tspan><tspan class="key">OS:</tspan><tspan class="dot">...................................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
-<tspan x="446" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.................................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 18 days old)</tspan></tspan>
-<tspan x="446" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">...............................</tspan><tspan class="val">4 years 3 months 5 days on GitHub</tspan></tspan>
-<tspan x="446" y="126"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.................................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
-<tspan x="446" y="150"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">...............................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
-<tspan x="446" y="174"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">..................................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>
-<tspan x="446" y="198"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="446" y="222"><tspan class="dot">. </tspan><tspan class="key">Langs.Code:</tspan><tspan class="dot">...........................</tspan><tspan class="val">TypeScript, Kotlin, Dart,</tspan></tspan>
-<tspan x="446" y="246"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">Python, Java</tspan></tspan>
-<tspan x="446" y="270"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">...........................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
-<tspan x="446" y="294"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">..........................</tspan><tspan class="val">Romanian, English</tspan></tspan>
-<tspan x="446" y="318"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="446" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">.............................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
-<tspan x="446" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
-<tspan x="446" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val">dev — home base</tspan></tspan>
-<tspan x="446" y="414"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">......................................</tspan><tspan class="val"></tspan></tspan>
-<tspan x="446" y="438"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">--------------------------------------------------</tspan></tspan>
-<tspan x="446" y="462"><tspan class="key">Repos:</tspan><tspan class="dot">................................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>
-<tspan x="446" y="486"><tspan class="dot">. </tspan><tspan class="key">Followers:</tspan><tspan class="dot">............................</tspan><tspan class="val">12 | streak: unbroken</tspan></tspan>
-<tspan x="446" y="510"><tspan class="dot">. </tspan><tspan class="key">Storage:</tspan><tspan class="dot">..............................</tspan><tspan class="val">everything auto-deleted in 7d</tspan></tspan></text>
+  <text><tspan x="432" y="30"><tspan class="key">- cg@getswift </tspan><tspan class="dot">-------------------------------------------------------------</tspan></tspan>
+<tspan x="432" y="54"><tspan class="dot">. </tspan><tspan class="key">OS:</tspan><tspan class="dot">.........................</tspan><tspan class="val">Romania (GMT+2)</tspan></tspan>
+<tspan x="432" y="78"><tspan class="dot">. </tspan><tspan class="key">Born:</tspan><tspan class="dot">.......................</tspan><tspan class="val">Jan 15, 2011  (15 years 7 months 19 days old)</tspan></tspan>
+<tspan x="432" y="102"><tspan class="dot">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dot">.....................</tspan><tspan class="val">4 years 3 months 6 days on GitHub</tspan></tspan>
+<tspan x="432" y="126"><tspan class="dot">. </tspan><tspan class="key">Host:</tspan><tspan class="dot">.......................</tspan><tspan class="val">cgcristi.dev</tspan></tspan>
+<tspan x="432" y="150"><tspan class="dot">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dot">.....................</tspan><tspan class="val">edge-native (Cloudflare)</tspan></tspan>
+<tspan x="432" y="174"><tspan class="dot">. </tspan><tspan class="key">IDE:</tspan><tspan class="dot">........................</tspan><tspan class="val">VS Code, Android Studio</tspan></tspan>
+<tspan x="432" y="198"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="432" y="222"><tspan class="dot">. </tspan><tspan class="key">Langs.Code:</tspan><tspan class="dot">.................</tspan><tspan class="val">TypeScript, Kotlin, Dart,</tspan></tspan>
+<tspan x="432" y="246"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">Python, Java</tspan></tspan>
+<tspan x="432" y="270"><tspan class="dot">. </tspan><tspan class="key">Langs.Edge:</tspan><tspan class="dot">.................</tspan><tspan class="val">Workers, Pages, D1, R2, Cron</tspan></tspan>
+<tspan x="432" y="294"><tspan class="dot">. </tspan><tspan class="key">Langs.Human:</tspan><tspan class="dot">................</tspan><tspan class="val">Romanian, English</tspan></tspan>
+<tspan x="432" y="318"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="432" y="342"><tspan class="dot">. </tspan><tspan class="key">Projects:</tspan><tspan class="dot">...................</tspan><tspan class="val">temp — files that self-delete</tspan></tspan>
+<tspan x="432" y="366"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">bin — burn-after-read pastes</tspan></tspan>
+<tspan x="432" y="390"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val">dev — home base</tspan></tspan>
+<tspan x="432" y="414"><tspan class="dot">. </tspan><tspan class="key"></tspan><tspan class="dot">............................</tspan><tspan class="val"></tspan></tspan>
+<tspan x="432" y="438"><tspan class="key">- GitHub Stats </tspan><tspan class="dot">------------------------------------------------------------</tspan></tspan>
+<tspan x="432" y="462"><tspan class="key">Repos:</tspan><tspan class="dot">......................</tspan><tspan class="val">15 public | Stars: 9</tspan></tspan>
+<tspan x="432" y="486"><tspan class="dot">. </tspan><tspan class="key">Followers:</tspan><tspan class="dot">..................</tspan><tspan class="val">12 | streak: unbroken</tspan></tspan>
+<tspan x="432" y="510"><tspan class="dot">. </tspan><tspan class="key">Storage:</tspan><tspan class="dot">....................</tspan><tspan class="val">everything auto-deleted in 7d</tspan></tspan></text>
 </svg>
