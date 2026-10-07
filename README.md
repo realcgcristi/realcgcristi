@@ -42,9 +42,7 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 |---|---|---|
 | [pigeonsms](https://github.com/realcgcristi/pigeonsms) | chat app, android client, cloudflare workers backend. dms, spaces, calls, the works. | kotlin |
 | [nextfin](https://github.com/realcgcristi/nextfin) | a jellyfin client for android | dart |
-| [StreamFlareUI](https://github.com/realcgcristi/StreamFlareUI) | streamflare, but with a UI | python |
-| [StreamFlare](https://github.com/realcgcristi/StreamFlare) | a simple youtube downloader, for terminals | python |
-| [ByteDecoder](https://github.com/realcgcristi/ByteDecoder) | a simple UI-based encoder/decoder | python |
+| [rpvlc](https://github.com/realcgcristi/rpvlc) | a simple TUI-based vlc rich presence discord with last.fm | javascript |
 
 ### toolbox
 
