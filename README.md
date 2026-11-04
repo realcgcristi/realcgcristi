@@ -4,7 +4,7 @@
   <img src="banner.png" alt="banner" width="820" />
 </p>
 
-<p align="center"><sub>thanks a_arond for making the masterpiece of a banner above</sub></p>
+<p align="center"><sub>thanks @Aaarond for making the masterpiece of a banner above</sub></p>
 
 ---
 
