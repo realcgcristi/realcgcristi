@@ -1,0 +1,95 @@
+name: Update Breakout animation
+
+on:
+  schedule:
+    - cron: "53 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/update-breakout.yml]
+
+concurrency:
+  group: contribution-breakout
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Download the arcade renderer
+        run: |
+          npm pack --ignore-scripts --pack-destination "$RUNNER_TEMP" pacman-contribution-graph@5.5.2
+          tar -xOf "$RUNNER_TEMP/pacman-contribution-graph-5.5.2.tgz" package/dist/pacman-contribution-graph.min.js > "$RUNNER_TEMP/arcade.mjs"
+      - name: Render light and dark Breakout SVGs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: |
+          mkdir -p arcade
+          node --input-type=module <<'JS'
+          import { writeFileSync } from 'node:fs';
+          import { pathToFileURL } from 'node:url';
+
+          const { ArcadeRenderer } = await import(pathToFileURL(`${process.env.RUNNER_TEMP}/arcade.mjs`));
+          for (const theme of ['github', 'github-dark']) {
+            let svg;
+            const renderer = new ArcadeRenderer({
+              game: 'breakout',
+              platform: 'github',
+              username: process.env.PROFILE_USERNAME,
+              gameTheme: theme,
+              githubSettings: { accessToken: process.env.GH_TOKEN },
+              showMonthLabels: false,
+              svgCallback: (result) => { svg = result; }
+            });
+            await renderer.start();
+            const dimensions = svg?.match(/^<svg width="(\d+)" height="(\d+)"/);
+            if (!dimensions || !svg.includes('<animate')) {
+              throw new Error(`Missing Breakout animation for ${theme}`);
+            }
+            const [, width, height] = dimensions;
+            const responsiveSvg = svg.replace('<svg ', `<svg viewBox="0 0 ${width} ${height}" `);
+            writeFileSync(`arcade/breakout-${theme}.svg`, responsiveSvg);
+          }
+          JS
+      - name: Pass the SVGs to the publish job
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: contribution-breakout
+          path: arcade/*.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: generate
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: contribution-breakout
+          path: arcade
+      - name: Publish updated Breakout SVGs
+        run: |
+          git add arcade/breakout-github.svg arcade/breakout-github-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh Breakout animation'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          exit 1
