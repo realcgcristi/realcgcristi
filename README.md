@@ -102,5 +102,9 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 
 </details>
 
+<p align="center">
+  <a href="https://www.last.fm/user/sillyavery"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=sillyavery&amp;count=1&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;accent_color=adf878" alt="Latest track played by sillyavery on Last.fm" width="400" /></a>
+</p>
+
 <p align="center"><i>ship it, let it expire, move on.</i></p>
 
