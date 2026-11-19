@@ -79,6 +79,10 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realcgcristi&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=adf878&amp;point=f38020&amp;area=true&amp;area_color=adf878&amp;hide_border=true&amp;hide_title=true&amp;height=260" alt="GitHub contributions over the last 31 days" width="820" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D skyline of my GitHub contributions over the past year" width="820" />
+</p>
+
 <details>
 <summary>more stats</summary>
 
