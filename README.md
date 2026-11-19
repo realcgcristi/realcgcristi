@@ -107,5 +107,17 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
   <a href="https://www.last.fm/user/sillyavery"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=sillyavery&amp;count=1&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;accent_color=adf878" alt="Latest track played by sillyavery on Last.fm" width="380" /></a>
 </p>
 
+<details>
+<summary>bonus level</summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="arcade/breakout-github-dark.svg" />
+    <img src="arcade/breakout-github.svg" alt="Breakout animation with my GitHub contributions as bricks" width="820" />
+  </picture>
+</p>
+
+</details>
+
 <p align="center"><i>ship it, let it expire, move on.</i></p>
 
