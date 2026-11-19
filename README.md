@@ -102,6 +102,12 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 
 </details>
 
+<h3 align="center">bucharest after dark</h3>
+
+<p align="center">
+  <img src="https://readmeme.eu.cc/api/skyline.svg?skylineStyle=banner&amp;timezone=Europe%2FBucharest&amp;label=BUCHAREST" alt="Day and night illustration that follows Bucharest local time" width="600" />
+</p>
+
 <p align="center">
   <a href="https://discord.com/users/680823919338717224"><img src="https://lanyard.cnrad.dev/api/680823919338717224?theme=dark&amp;bg=0d1117&amp;hideSpotify=true&amp;hideAppleMusic=true&amp;showDisplayName=true&amp;hideTimestamp=true" alt="My Discord presence" width="380" /></a>
   <a href="https://www.last.fm/user/sillyavery"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=sillyavery&amp;count=1&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;accent_color=adf878" alt="Latest track played by sillyavery on Last.fm" width="380" /></a>
@@ -119,5 +125,18 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 
 </details>
 
+---
+
+<h3 align="center">getswift</h3>
+
+<p align="center">
+  <a href="https://getswift.cloud"><img src="assets/getswift-og.jpg" alt="GetSwift homepage preview for direct file delivery" width="600" /></a>
+</p>
+
 <p align="center"><i>ship it, let it expire, move on.</i></p>
 
+<p align="center">
+  <a href="https://cgcristi.dev"><img src="assets/buttons/cgcristi-88x31.png" alt="cgcristi.dev home" width="88" height="31" /></a>
+  <a href="https://getswift.cloud"><img src="assets/buttons/getswift-88x31.png" alt="GetSwift home" width="88" height="31" /></a>
+  <a href="https://github.com/realcgcristi/pigeonsms"><img src="assets/buttons/pigeonsms-88x31.png" alt="PigeonSMS on GitHub" width="88" height="31" /></a>
+</p>
