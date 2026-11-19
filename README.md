@@ -73,6 +73,15 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 
 ---
 
+### github activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realcgcristi&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=adf878&amp;point=f38020&amp;area=true&amp;area_color=adf878&amp;hide_border=true&amp;hide_title=true&amp;height=260" alt="GitHub contributions over the last 31 days" width="820" />
+</p>
+
+<details>
+<summary>more stats</summary>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realcgcristi&theme=github_dark" alt="repos per language" width="380" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realcgcristi&theme=github_dark" alt="most commit language" width="380" />
@@ -86,6 +95,8 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=realcgcristi&hide_border=true&background=0D1117&stroke=161B22&ring=ADF878&fire=F38020&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=ADF878&sideLabels=C9D1D9&dates=8B949E" alt="streak" height="150" />
 </p>
+
+</details>
 
 <p align="center"><i>ship it, let it expire, move on.</i></p>
 
