@@ -36,6 +36,15 @@ Mostly **throwaway infrastructure**, things that delete themselves so nothing ro
 - **[bin.getswift.cloud](https://bin.getswift.cloud)**, pastebin with burn-after-read, forks, and raw endpoints.
 - **[cgcristi.dev](https://cgcristi.dev)**, my corner of the internet.
 
+<p align="center">
+  <a href="https://cgcristi.dev/lfn">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/boot-lfn.svg#still" />
+      <img src="assets/boot-lfn.svg" alt="Boot Linux From Nothing on a PlayStation 4 and see the playfetch snapshot (30 MiB of RAM used). Open the LFN gallery." width="560" />
+    </picture>
+  </a>
+</p>
+
 ### favorite public repos
 
 | repo | about | written in |

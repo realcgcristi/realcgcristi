@@ -1,0 +1,49 @@
+<svg id="still" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" width="520" height="300" role="img" aria-labelledby="title description">
+  <title id="title">Boot Linux From Nothing</title>
+  <desc id="description">An abbreviated replay of the owner's playinit boot log and playfetch captures. Linux From Nothing 1.0 Reindeer, PlayStation 4 CUH-1000A, kernel 7.1.7-playLFN-reindeer, 30 of 969 MiB of RAM used.</desc>
+  <style>
+    text { font-family: 'DejaVu Sans Mono', Menlo, Consolas, monospace; }
+    .stage { animation: reveal var(--at) steps(1, end) both; }
+    #still:target .stage { animation: none; }
+    @keyframes reveal { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .stage { animation: none; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="519" height="299" rx="12" fill="#0d1117" stroke="#424a53" />
+  <path d="M1 42V12A11 11 0 0 1 12 1h496a11 11 0 0 1 11 11v30z" fill="#161b22" />
+  <path d="M1 42.5h518M22 115.5h476" stroke="#30363d" />
+  <rect x="22" y="18" width="8" height="8" rx="2" fill="#adf878" />
+  <text x="42" y="28" fill="#f0f6fc" font-size="17" font-weight="bold">boot LFN</text>
+  <text x="477" y="28" fill="#c1c9d3" font-size="15" text-anchor="end">view gallery</text>
+  <path d="M485 27l9-9m-7 0h7v7" fill="none" stroke="#adf878" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <text x="22" y="71" fill="#c1c9d3" font-size="17">playinitd: booting LFN</text>
+  <g fill="#e6edf3" font-size="16">
+    <text class="stage" style="--at: 180ms" x="22" y="98"><tspan fill="#adf878">[ok!]</tspan> mountall</text>
+    <text class="stage" style="--at: 340ms" x="191" y="98"><tspan fill="#adf878">[ok!]</tspan> hostname</text>
+    <text class="stage" style="--at: 510ms" x="365" y="98"><tspan fill="#adf878">[ok!]</tspan> network</text>
+  </g>
+
+  <text class="stage" style="--at: 810ms" x="22" y="144" font-size="18" fill="#f0f6fc"><tspan fill="#adf878">root@lfn:~#</tspan> playfetch</text>
+  <g class="stage" style="--at: 1120ms">
+    <text xml:space="preserve" fill="#f78a70" font-size="10" aria-hidden="true"><tspan x="22" y="174">    .--.</tspan><tspan x="22" y="186">   |o_o |</tspan><tspan x="22" y="198">   |:_/ |</tspan><tspan x="22" y="210">  //   \ \</tspan><tspan x="22" y="222"> (|     | )</tspan><tspan x="22" y="234">/ '\_   _/`\</tspan><tspan x="22" y="246">\___)=(___/</tspan></text>
+    <path d="M91 163v91" stroke="#30363d" />
+    <text x="109" y="174" fill="#f0f6fc" font-size="19" font-weight="bold">Linux From Nothing 1.0</text>
+    <text x="109" y="195" fill="#c1c9d3" font-size="16">Reindeer · x86_64</text>
+    <g font-size="16" fill="#e6edf3">
+      <text x="109" y="217" fill="#8bc8d9">Host</text>
+      <text x="180" y="217">PlayStation 4 · CUH-1000A</text>
+      <text x="109" y="237" fill="#8bc8d9">Kernel</text>
+      <text x="180" y="237">7.1.7-playLFN-reindeer</text>
+      <text x="109" y="257" fill="#8bc8d9">Memory</text>
+      <text x="180" y="257">30 / 969 MiB</text>
+    </g>
+  </g>
+
+  <g class="stage" style="--at: 1520ms">
+    <text x="22" y="283" fill="#adf878" font-size="18">root@lfn:~#</text>
+    <rect x="154" y="269" width="8" height="16" rx="1" fill="#adf878" />
+  </g>
+</svg>
